@@ -36,8 +36,7 @@ class Crawler(object):
         totalPage = 0
         if pageSource['baseUrlTPHCM'] == 'https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh':
             totalPage = self.get_total_pages(pageSource)
-        # itemUrlList = self.get_hrefs_each_page(pageSource,totalPage)     
-        itemUrlList = ['https://nhadatvui.vn/cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075']
+        itemUrlList = self.get_hrefs_each_page(pageSource,totalPage)     
         items = [] 
         for itemUrl in itemUrlList:
             items.append(self.parse_item(itemUrl, pageSource))
@@ -49,29 +48,15 @@ class Crawler(object):
             json.dump(data, f)
             
     def export_to_excel(self, data):
-        # create a DataFrame
-        df = pd.DataFrame({'name': ['Alice', 'Bob', 'Charlie'], 'age': [25, 30, 35]})
-
-        # export to Excel file
-        df.to_excel('data.xlsx', index=False)
-        # data1 = {
-        #     "name": ["Alice", "Bob", "Charlie"],
-        #     "age": [25, 30, 35],
-        #     "gender": ["female", "male", "male"]
-        # }
-        # df = pd.DataFrame(data1)
-        # print(df)
-        # df.to_excel('data.xlsx', index=False)
-        # try:
-        #     df = pd.DataFrame(data1)
-        #     print(df)
-        #     df.to_excel('data.xlsx', index=False)
-        # except Exception as e:
-        #     print("Đã xảy ra lỗi:", e)
-        # else:
-        #     print("Export Successful")
-        # finally:
-        #     print("Đã kết thúc hàm export_to_excel")
+        try:
+            df = pd.DataFrame(data)
+            df.to_excel('data.xlsx', index=False)
+        except Exception as e:
+            print("Đã xảy ra lỗi:", e)
+        else:
+            print("Export Successful")
+        finally:
+            print("Đã kết thúc hàm export_to_excel")
 
          
     def get_total_pages(self, pageSource):
@@ -116,7 +101,6 @@ class Crawler(object):
             'bathroom': soup.select(pageSource['baseClass'] + pageSource['bathroom'])[0].text.split()[0], 
             'id': int(re.findall('\d+',itemUrl)[-1])
         }
-        json_string = json.dumps(tempObject)
         return tempObject
     
     def convert_price(self, priceText):
