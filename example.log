@@ -1,0 +1,1739 @@
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 121, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 121, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 121, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 121, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+    ^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 42, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 98, in parse_item
+    print(tempObject)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 36: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+    ^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 42, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 98, in parse_item
+    print(str(tempObject))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 36: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+    ^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 42, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 98, in parse_item
+    print(str(tempObject['ward']))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+    ^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 42, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 98, in parse_item
+    print(str(tempObject['ward']))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+    ^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 42, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 98, in parse_item
+    print(str(tempObject['district']))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 2: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 122, in run_demo
+    print(self.crawl(url))
+    ^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 42, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 98, in parse_item
+    print(tempObject)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 36: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 124, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 86, in parse_item
+    print(soup.select(pageSource['baseClass'] + pageSource['district'])[0].text)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 2: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 124, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 86, in parse_item
+    print(soup.select(pageSource['baseClass'] + pageSource['ward'])[0].text)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 124, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 86, in parse_item
+    print(soup.select(pageSource['baseClass']))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0103' in position 266: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 124, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 86, in parse_item
+    print(str(soup.select(pageSource['baseClass'])))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0103' in position 266: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 124, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 86, in parse_item
+    print(str(soup.select(pageSource['baseClass'])))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0103' in position 266: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 124, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 86, in parse_item
+    print(str(soup.select(pageSource['baseClass'] + pageSource['district'])[0].text))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 2: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 124, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 86, in parse_item
+    print(str(soup))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0103' in position 143: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 125, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 86, in parse_item
+    print(str(soup))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0103' in position 143: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 126, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 86, in parse_item
+    print(str(soup))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0103' in position 143: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 126, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 102, in parse_item
+    print(my_dict)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 36: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 124, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 44, in crawl
+    print(items)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 124, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 44, in crawl
+    print(str(items))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 124, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 44, in crawl
+    print(str(items))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 123, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 44, in crawl
+    print(str(items))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 123, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 46, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 54, in export_to_excel
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 126, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 46, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 54, in export_to_excel
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 126, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 44, in crawl
+    print(str(items))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 126, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 44, in crawl
+    print(str(items))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 126, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 90, in parse_item
+    'district': soup.select(pageSource['baseClass'] + pageSource['district'])[0].text.encode('latin1').decode('unicode_escape'),
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'latin-1' codec can't encode character '\u1ead' in position 2: ordinal not in range(256)
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 126, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 90, in parse_item
+    'district': soup.select(pageSource['baseClass'] + pageSource['district'])[0].text.encode('latin1').decode('unicode_escape'),
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'latin-1' codec can't encode character '\u1ead' in position 2: ordinal not in range(256)
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 126, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 90, in parse_item
+    'district': soup.select(pageSource['baseClass'] + pageSource['district'])[0].text.encode('latin1').decode('unicode_escape'),
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'latin-1' codec can't encode character '\u1ead' in position 2: ordinal not in range(256)
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 126, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 87, in parse_item
+    print(s)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 2: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 126, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 87, in parse_item
+    print(s)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 2: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 125, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 86, in parse_item
+    s_formatted = s.encode('latin1').decode('unicode_escape')
+                  ^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'latin-1' codec can't encode character '\u1ead' in position 2: ordinal not in range(256)
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 123, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 87, in parse_item
+    'district': soup.select(pageSource['baseClass'] + pageSource['district'])[0].text.encode('latin1').decode('unicode_escape'),
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'latin-1' codec can't encode character '\u1ead' in position 2: ordinal not in range(256)
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 123, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 88, in parse_item
+    'ward': soup.select(pageSource['baseClass'] + pageSource['ward'])[0].text.encode('latin1').decode('unicode_escape'),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 2-3: ordinal not in range(256)
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 123, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 88, in parse_item
+    'ward': soup.select(pageSource['baseClass'] + pageSource['ward'])[0].text.encode('latin1').decode('unicode_escape'),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 2-3: ordinal not in range(256)
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 123, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 88, in parse_item
+    'ward': soup.select(pageSource['baseClass'] + pageSource['ward'])[0].text.encode('latin1').decode('unicode_escape'),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 2-3: ordinal not in range(256)
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 123, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 88, in parse_item
+    'ward': soup.select(pageSource['baseClass'] + pageSource['ward'])[0].text.encode('latin1').decode('unicode_escape'),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 2-3: ordinal not in range(256)
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 123, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 88, in parse_item
+    'ward': soup.select(pageSource['baseClass'] + pageSource['ward'])[0].text.encode('latin1').decode('unicode_escape'),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 2-3: ordinal not in range(256)
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 124, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 44, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 89, in parse_item
+    'ward': soup.select(pageSource['baseClass'] + pageSource['ward'])[0].text.encode('latin1').decode('unicode_escape'),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 2-3: ordinal not in range(256)
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 54, in export_to_excel
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 56, in export_to_excel
+    print("\u0110ã x\u1ea3y ra l\u1ed7i:", e)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 130, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 60, in export_to_excel
+    print("\u0110ã k\u1ebft thúc hàm export_to_excel")
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 55, in export_to_excel
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 57, in export_to_excel
+    print("\u0110ã x\u1ea3y ra l\u1ed7i:", e)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 131, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 46, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 61, in export_to_excel
+    print("\u0110ã k\u1ebft thúc hàm export_to_excel")
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 132, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 46, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 53, in export_to_excel
+    print(data)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 55, in export_to_excel
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 57, in export_to_excel
+    print("\u0110ã x\u1ea3y ra l\u1ed7i:", e)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 131, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 61, in export_to_excel
+    print("\u0110ã k\u1ebft thúc hàm export_to_excel")
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 131, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 52, in export_to_excel
+    print(str(data))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 131, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 52, in export_to_excel
+    print(str(data))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 131, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 52, in export_to_excel
+    print(str(data))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 135, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 96, in parse_item
+    print(decoded_string)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 52, in export_to_excel
+    print(str(data))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 52, in export_to_excel
+    print(str(data))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 52, in export_to_excel
+    print(str(data))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 52, in export_to_excel
+    print(str(data))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 52, in export_to_excel
+    print(str(data))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 52, in export_to_excel
+    print(str(data))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 133, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 95, in parse_item
+    print(decoded_string)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\x9d' in position 6: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 130, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 52, in export_to_excel
+    print(str(data))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 130, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 52, in export_to_excel
+    print(str(data))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 37: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 131, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 53, in export_to_excel
+    print(str(df))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 92: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 131, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 53, in export_to_excel
+    print(str(df))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 92: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 132, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 54, in export_to_excel
+    print(str(df))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 92: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 132, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 54, in export_to_excel
+    print(str(df))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 92: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 132, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 53, in export_to_excel
+    print(str(df))
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1ead' in position 92: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 59, in export_to_excel
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 61, in export_to_excel
+    print("\u0110ã x\u1ea3y ra l\u1ed7i:", e)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 134, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 65, in export_to_excel
+    print("\u0110ã k\u1ebft thúc hàm export_to_excel")
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 60, in export_to_excel
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 62, in export_to_excel
+    print("\u0110ã x\u1ea3y ra l\u1ed7i:", e)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 135, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 66, in export_to_excel
+    print("\u0110ã k\u1ebft thúc hàm export_to_excel")
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 60, in export_to_excel
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 62, in export_to_excel
+    print("\u0110ã x\u1ea3y ra l\u1ed7i:", e)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 135, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 66, in export_to_excel
+    print("\u0110ã k\u1ebft thúc hàm export_to_excel")
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 60, in export_to_excel
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 62, in export_to_excel
+    print("\u0110ã x\u1ea3y ra l\u1ed7i:", e)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 135, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 66, in export_to_excel
+    print("\u0110ã k\u1ebft thúc hàm export_to_excel")
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 138, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 59, in export_to_excel
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 143, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 56, in export_to_excel
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 147, in run_demo
+    self.crawl(url)
+  File "c:\0.Coding\University_senior\khoaluan_project\crawler.py", line 48, in crawl
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-phuong-phu-thuan-quan-7/cho-thue-can-ho-quan-7-2pn-nha-trong-chi-7tr-thang-co-ho-boi-sieu-thi-gym-1678372075 HTTP/1.1" 200 None
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 143, in run_demo
+    self.crawl(url)
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 45, in crawl
+    self.export_to_excel(items)
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 56, in export_to_excel
+    df.to_excel('data.xlsx', index=False)
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\pandas\core\generic.py", line 2374, in to_excel
+    formatter.write(
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\pandas\io\formats\excel.py", line 944, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
