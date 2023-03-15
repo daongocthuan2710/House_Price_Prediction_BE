@@ -44,8 +44,16 @@ class Crawler(object):
         self.export_to_excel(items)
     
     def export_to_json(self, data):
-        with open('data.json', 'w') as f:
-            json.dump(data, f)
+        try:
+            with open('data.json', 'w') as f:
+                json.dump(data, f)
+        except Exception as e:
+            print("Đã xảy ra lỗi:", e)
+        else:
+            print("Export Successful")
+        finally:
+            print("Đã kết thúc hàm export_to_json")
+        
             
     def export_to_excel(self, data):
         try:
