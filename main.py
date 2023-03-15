@@ -3,14 +3,16 @@ import uuid
 from pydantic import BaseModel, Field
 from fastapi import FastAPI
 import crawler
+import json
 
 app = FastAPI()
 
 
 @app.get("/")
-def read_root():
-    c = crawler.Crawler()
-    return c.main()
+async def read_root():
+    with open('data.json', 'r') as f:
+        data = json.load(f)
+    return data
 
 
 @app.get("/items/{item_id}")
