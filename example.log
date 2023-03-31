@@ -15471,3 +15471,746 @@ DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
 DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
 DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x000001CAE72AF090>, 'Connection to nhadatvui.vn timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CAE72AF090>, 'Connection to nhadatvui.vn timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 43, in crawl
+    items.append(self.parse_item(itemUrl, pageSource))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 96, in parse_item
+    resp = requests.get(itemUrl)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 553, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CAE72AF090>, 'Connection to nhadatvui.vn timed out. (connect timeout=None)'))
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x000001CAE706C350>, 'Connection to nhadatvui.vn timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CAE706C350>, 'Connection to nhadatvui.vn timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 38, in crawl
+    totalPage = self.get_total_pages(pageSource)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 72, in get_total_pages
+    resp = requests.get(pageSource['baseUrlTPHCM'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 553, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CAE706C350>, 'Connection to nhadatvui.vn timed out. (connect timeout=None)'))
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x000001CAE6B6F990>, 'Connection to nhadatvui.vn timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CAE6B6F990>, 'Connection to nhadatvui.vn timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 38, in crawl
+    totalPage = self.get_total_pages(pageSource)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 72, in get_total_pages
+    resp = requests.get(pageSource['baseUrlTPHCM'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 553, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CAE6B6F990>, 'Connection to nhadatvui.vn timed out. (connect timeout=None)'))
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001CAE6B6DCD0>: Failed to establish a new connection: [WinError 10053] An established connection was aborted by the software in your host machine
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CAE6B6DCD0>: Failed to establish a new connection: [WinError 10053] An established connection was aborted by the software in your host machine'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 38, in crawl
+    totalPage = self.get_total_pages(pageSource)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 72, in get_total_pages
+    resp = requests.get(pageSource['baseUrlTPHCM'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CAE6B6DCD0>: Failed to establish a new connection: [WinError 10053] An established connection was aborted by the software in your host machine'))
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001CAE6B8CAD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CAE6B8CAD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 38, in crawl
+    totalPage = self.get_total_pages(pageSource)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 72, in get_total_pages
+    resp = requests.get(pageSource['baseUrlTPHCM'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CAE6B8CAD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001CAE6B8CA50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CAE6B8CA50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 38, in crawl
+    totalPage = self.get_total_pages(pageSource)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 72, in get_total_pages
+    resp = requests.get(pageSource['baseUrlTPHCM'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CAE6B8CA50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001CAE6B8C590>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CAE6B8C590>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 38, in crawl
+    totalPage = self.get_total_pages(pageSource)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 72, in get_total_pages
+    resp = requests.get(pageSource['baseUrlTPHCM'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CAE6B8C590>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001CAE6B6CAD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CAE6B6CAD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 38, in crawl
+    totalPage = self.get_total_pages(pageSource)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 72, in get_total_pages
+    resp = requests.get(pageSource['baseUrlTPHCM'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CAE6B6CAD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+ERROR:root:Failed to crawl:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001CAE6B6EB10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CAE6B6EB10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 136, in run_demo
+    self.crawl(url)
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 38, in crawl
+    totalPage = self.get_total_pages(pageSource)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\0.Coding\University_senior\khoaluan_project\crawler.py", line 72, in get_total_pages
+    resp = requests.get(pageSource['baseUrlTPHCM'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daong\.virtualenvs\khoaluan_project-oR8ucY7X\Lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nhadatvui.vn', port=443): Max retries exceeded with url: /cho-thue-nha-dat-tp-ho-chi-minh (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CAE6B6EB10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
+INFO:root:Crawling:https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-nha-dat-tp-ho-chi-minh HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nhadatvui.vn:443
+DEBUG:urllib3.connectionpool:https://nhadatvui.vn:443 "GET /cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422 HTTP/1.1" 200 None
