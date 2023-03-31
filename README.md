@@ -2,14 +2,14 @@
 
 ## Clone project
 
-## Python Version: 3.11.2
+### Python Version: 3.11.2
 
-## Install pip: "py -m pip install"
+### Install pip: "py -m pip install"
 
-## "pip install pipenv": Tạo biến môi trường
+### "pip install pipenv": Tạo biến môi trường
 
-## "pipenv install -r requirements.txt": Install file requirements
+### "pipenv install -r requirements.txt": Install file requirements
 
-## "pipenv shell": Khởi chạy môi trường ảo
+### "pipenv shell": Khởi chạy môi trường ảo
 
-## "uvicorn main:app --reload": run server
+### "uvicorn main:app --reload": run server
