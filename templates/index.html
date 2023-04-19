@@ -1,7 +1,5 @@
 <html>
   <head>
-    <!-- <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
-    <script defer src="https://pyscript.net/alpha/pyscript.js"></script> -->
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -62,7 +60,6 @@
     </style>
   </head>
   <body>
-    <!-- <p>Item ID: {{ data }}</p> -->
     <div class="container-fluid">
       <div class="row" style="text-align: center; margin-top: 50px">
         <h2 class="greeting">HOUSE PRICE PREDICTION</h2>
@@ -136,7 +133,9 @@
     </div>
   </body>
   <script>
+    const codeHCM = 79;
     $(document).ready(function () {
+      districts = fetchDistricts(codeHCM);
       var date = moment().format("YYYY MM DD");
       $("#inputDateSubmit").val(date.split(" ").join("-"));
     });
@@ -163,6 +162,21 @@
           console.log(data);
         },
       });
+    }
+
+    function fetchDistricts(codeProvince) {
+      let districts;
+      $.ajax({
+        url: `https://vapi.vnappmob.com/api/province/district/${codeProvince}`,
+        type: "GET",
+        dataType: "JSON",
+        data: JSON.stringify({}),
+        success: function (data) {
+          console.log(data);
+          districts = data;
+        },
+      });
+      return districts;
     }
   </script>
   <script>

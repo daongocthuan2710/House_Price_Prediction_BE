@@ -36,12 +36,12 @@ class Crawler(object):
         totalPage = 0
         if pageSource['baseUrlTPHCM'] == 'https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh':
             totalPage = self.get_total_pages(pageSource)
-        # itemUrlList = self.get_hrefs_each_page(pageSource,totalPage)     
-        itemUrlList = ['https://nhadatvui.vn/cho-thue-can-ho-chung-cu-xa-phong-phu-huyen-binh-chanh/cho-thue-can-ho-conic-dinh-khiem-74m2-2pn-2wc-5-5tr-thang-1679111422']
+        itemUrlList = self.get_hrefs_each_page(pageSource,totalPage)     
+        # itemUrlList = ['https://nhadatvui.vn/cho-thue-mat-bang-cua-hang-phuong-15-quan-11/can-sang-gap-quan-hai-san-mat-bang-rong-ngay-goc-duong-nga-tu-thanh-thai-ly-thuong-kiet-dong-dan-cu-xe-co-dong-duc-1681892233']
         items = [] 
         for itemUrl in itemUrlList:
             items.append(self.parse_item(itemUrl, pageSource))
-        self.export_to_json(items)
+        # self.export_to_json(items)
         self.export_to_excel(items)
     
     def export_to_json(self, data):
@@ -51,22 +51,22 @@ class Crawler(object):
         except Exception as e:
             print("Đã xảy ra lỗi:", e)
         else:
-            print("Export Successful")
+            print("Export Json File Successful")
         finally:
-            print("Đã kết thúc hàm export_to_json")
-        
+            print("Đã kết thúc hàm export_to_json")       
             
     def export_to_excel(self, data):
         try:
+            print("Starting Exporting...")
             df = pd.DataFrame(data)
             df.to_excel('data.xlsx', index=False)
+            print("Finished Exporting...")
         except Exception as e:
             print("Đã xảy ra lỗi:", e)
         else:
-            print("Export Successful")
+            print("Export Excel File Successful")
         finally:
             print("Đã kết thúc hàm export_to_excel")
-
          
     def get_total_pages(self, pageSource):
         resp = requests.get(pageSource['baseUrlTPHCM'])
@@ -98,6 +98,7 @@ class Crawler(object):
         priceText = soup.select(pageSource['baseClass'] + pageSource['priceText'])[0].text.split()
         price = self.convert_price(priceText)
         tempObject = {
+            'id': int(re.findall('\d+',itemUrl)[-1]),
             'price': price,
             'district': soup.select(pageSource['baseClass'] + pageSource['district'])[0].text,
             'ward': soup.select(pageSource['baseClass'] + pageSource['ward'])[0].text,
@@ -105,10 +106,9 @@ class Crawler(object):
             'area': soup.select(pageSource['baseClass'] + pageSource['area'])[0].text.split()[0],
             'length': soup.select(pageSource['baseClass'] + pageSource['length'])[0].text.split()[0],
             'width': soup.select(pageSource['baseClass'] + pageSource['width'])[0].text.split()[0], 
-            'direction': soup.select(pageSource['baseClass'] + pageSource['direction'])[0].text.split()[0], 
             'bedroom': soup.select(pageSource['baseClass'] + pageSource['bedroom'])[0].text.split()[0], 
-            'bathroom': soup.select(pageSource['baseClass'] + pageSource['bathroom'])[0].text.split()[0], 
-            'id': int(re.findall('\d+',itemUrl)[-1])
+            'bathroom': soup.select(pageSource['baseClass'] + pageSource['bathroom'])[0].text.split()[0],
+            'direction': soup.select(pageSource['baseClass'] + pageSource['direction'])[0].text.split()[0]
         }
         return tempObject
     
@@ -139,27 +139,46 @@ class Crawler(object):
             finally:
                 self.visited_urls.append(url)
     
-    # async def fetch_url(self,session, url):
-    #     async with session.get(url) as response:
-    #         return await response.text()
-                    
-    # async def crawl_demo(self, urls):
-    #     async with aiohttp.ClientSession() as session:
-    #         tasks = []
-    #         for url in urls:
-    #             tasks.append(asyncio.ensure_future(self.fetch_url(session, url)))
-    #         results = await asyncio.gather(*tasks)
-    #         return results
-    
-    # def run(self, urls):
-    #     loop = asyncio.get_event_loop()
-    #     return loop.run_until_complete(self.crawl_demo(urls))
-    
     def main(self):
         self.run_demo()
-        # data = self.run(self.urls_to_visit)
-        
-# if __name__ == "__main__":
-#     c = Crawler(pageSourceList)
-#     c.main()
             
+if __name__ == "__main__":
+    pageSourceList = [
+        # {
+        #     'baseUrl': 'https://dothi.net/',
+        #     'address':'#mogi-page-content .props .link-overlay'
+        # },
+        # {
+        #     'baseUrl': 'https://bdschannel.vn/nha-dat-cho-thue/',
+        #     'address':'#mogi-page-content .props .link-overlay',
+        #     'itemUrls': '#content #main .module-content .has_rightsidebar .mh-property .mh-estate a',
+        #     'baseClass': '#main > div.row > div > section.border.mb-4'
+        # },
+        # {
+        #     'baseUrl': 'https://batdongsanonline.vn/',
+        #     'address':'#mogi-page-content .props .link-overlay',
+        #     'itemUrls': '#content #main .module-content .has_rightsidebar .mh-property .mh-estate a',
+        #     'baseClass': '#main > div.row > div > section.border.mb-4'
+        # },
+        {
+            'baseUrl': 'https://nhadatvui.vn/',
+            'baseUrlTPHCM': 'https://nhadatvui.vn/cho-thue-nha-dat-tp-ho-chi-minh',
+            'address':'#mogi-page-content .props .link-overlay',
+            'itemUrls': '#wrapper > div:nth-child(1) > div > div > div.main-search-product > div.left-search-product.box-show-container > div:nth-child(3) > div > div > div > div > div > a',
+            'baseClass': '#wrapper > div.mt-3.mb-6 > div > div > div.product-show-left',
+            'totalPagesAddress': '#wrapper > div:nth-child(1) > div > div > div.main-search-product > div.left-search-product.box-show-container > div.mt-4.display-flex.flex-center > div.flex-first > span',
+            'perPage': 18,
+            'priceText': ' > div.mt-3.product-title-price > div > div.mt-4.display-flex.flex-justify-between.text-medium-s > div.price-box > span',
+            'district': ' > div.flex.justify-between.items-center > ul > li:nth-child(4) > a > span',
+            'ward': ' > div.flex.justify-between.items-center > ul > li:nth-child(5) > a > span',
+            'submitDate': ' > div.flex.justify-between.items-center > div',
+            'area': ' > div:nth-child(3) > div > ul > li:nth-child(1)',
+            'length': ' > div:nth-child(3) > div > ul > li:nth-child(2)',
+            'width': ' > div:nth-child(3) > div > ul > li:nth-child(3)',
+            'bedroom': ' > div:nth-child(3) > div > ul > li:nth-child(4)',
+            'bathroom': ' > div:nth-child(3) > div > ul > li:nth-child(5)',
+            'direction': ' > div:nth-child(3) > div > ul > li:nth-child(6)',
+        }
+    ]
+    c = Crawler(pageSourceList)
+    c.main()
