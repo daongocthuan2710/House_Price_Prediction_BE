@@ -178,6 +178,21 @@
       });
       return districts;
     }
+
+    function fetchWards(codeDistrict) {
+      let wards;
+      $.ajax({
+        url: `https://vapi.vnappmob.com/api/province/ward/${codeDistrict}`,
+        type: "GET",
+        dataType: "JSON",
+        data: JSON.stringify({}),
+        success: function (data) {
+          console.log(data);
+          wards = data;
+        },
+      });
+      return wards;
+    }
   </script>
   <script>
     const ctx = document.getElementById("myChart");
