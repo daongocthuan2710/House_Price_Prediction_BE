@@ -58,7 +58,7 @@ class Crawler(object):
             itemUrlList = []
             totalPages = 0
             totalPages = self.get_total_pages(pageSource)
-            itemUrlList = self.get_hrefs_each_page(pageSource, totalPages)     
+            itemUrlList = self.get_hrefs_each_page(pageSource, pageSource['pages'])     
             items = [] 
             for itemUrl in itemUrlList:
                 items.append(self.parse_item(itemUrl, pageSource))           
@@ -171,7 +171,7 @@ if __name__ == "__main__":
         {
             'baseUrl': 'https://mogi.vn/',
             'baseUrlTPHCM': 'https://mogi.vn/ho-chi-minh/thue-nha-dat',
-            'pages': 10000,
+            'pages': 1,
             # 'pages': 20028,
             'address':'#mogi-page-content .props .link-overlay',
             'itemUrls': '#property > div.property-listing > ul > li > div.prop-info > a',
