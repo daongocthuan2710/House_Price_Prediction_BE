@@ -69,12 +69,21 @@
           <form id="predictForm" class="row g-3" style="width: 60%">
             <div class="col-md-6">
               <label for="selectDistrict" class="form-label">District</label>
-              <select class="form-select" id="selectDistrict">
-                <option selected>Quận 1</option>
-                <option value="1">Quận 2</option>
-                <option value="2">Quận 3</option>
-                <option value="3">Quận 4</option>
-              </select>
+              <select class="form-select" id="selectDistrict"></select>
+            </div>
+            <div class="col-md-6">
+              <label for="selectWard" class="form-label">Ward</label>
+              <select class="form-select" id="selectWard"></select>
+            </div>
+            <div class="col-6">
+              <label for="inputAddress" class="form-label">Address</label>
+              <input
+                type="text"
+                class="form-control"
+                id="inputAddress"
+                placeholder="1234 Main St"
+                required
+              />
             </div>
             <div class="col-md-6">
               <label for="inputCity" class="form-label">City</label>
@@ -84,16 +93,6 @@
                 class="form-control"
                 id="inputCity"
                 disabled
-              />
-            </div>
-            <div class="col-12">
-              <label for="inputAddress" class="form-label">Address</label>
-              <input
-                type="text"
-                class="form-control"
-                id="inputAddress"
-                placeholder="1234 Main St"
-                required
               />
             </div>
             <div class="col-md-6">
@@ -135,9 +134,14 @@
   <script>
     const codeHCM = 79;
     $(document).ready(function () {
-      districts = fetchDistricts(codeHCM);
+      fetchDistricts(codeHCM);
       var date = moment().format("YYYY MM DD");
       $("#inputDateSubmit").val(date.split(" ").join("-"));
+    });
+
+    $("#selectDistrict").on("change", function () {
+      const codeDistrict = this.value;
+      fetchWards(codeDistrict);
     });
 
     $(document).ready(function () {
@@ -164,19 +168,41 @@
       });
     }
 
-    function fetchDistricts(codeProvince) {
-      let districts;
+    async function fetchDistricts(codeProvince) {
       $.ajax({
         url: `https://vapi.vnappmob.com/api/province/district/${codeProvince}`,
         type: "GET",
         dataType: "JSON",
         data: JSON.stringify({}),
         success: function (data) {
-          console.log(data);
-          districts = data;
+          districts = data.results;
+          let html = "";
+          $.map(districts, function (val, i) {
+            html += `<option value=${val.district_id}>${val.district_name}</option>`;
+          });
+          document.getElementById("selectDistrict").innerHTML = html;
+
+          fetchWards(districts[1].district_id);
         },
       });
-      return districts;
+    }
+
+    async function fetchWards(codeDistrict) {
+      $.ajax({
+        url: `https://vapi.vnappmob.com/api/province/ward/${codeDistrict}`,
+        type: "GET",
+        dataType: "JSON",
+        data: JSON.stringify({}),
+        success: function (data) {
+          console.log(data.results);
+          wards = data.results;
+          let html = "";
+          $.map(wards, function (val, i) {
+            html += `<option value=${val.ward_id}>${val.ward_name}</option>`;
+          });
+          document.getElementById("selectWard").innerHTML = html;
+        },
+      });
     }
   </script>
   <script>
