@@ -57,6 +57,33 @@
           background-position: 100% center;
         }
       }
+
+      .btn-select {
+        margin: 0;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        padding: 0;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .btn-select span {
+        background-color: #198754;
+        padding: 5px;
+        border-radius: 5px;
+      }
+
+      .btn-select span:hover {
+        opacity: 0.9;
+      }
+
+      #predictFormMany {
+        display: none;
+      }
+
+      #find-one {
+        background-color: grey;
+      }
     </style>
   </head>
   <body>
@@ -64,9 +91,16 @@
       <div class="row" style="text-align: center; margin-top: 50px">
         <h2 class="greeting">HOUSE PRICE PREDICTION</h2>
       </div>
+      <div class="row btn-select">
+        <div class="col-md-12">
+          <span id="find-one">Tìm một vị trí</span>
+
+          <span id="find-many">Tìm nhiều vị trí</span>
+        </div>
+      </div>
       <div class="row g-3">
         <div class="col g-3 d-flex justify-content-center">
-          <form id="predictForm" class="row g-3" style="width: 60%">
+          <form id="predictFormOne" class="row g-3" style="width: 60%">
             <div class="col-md-6">
               <label for="selectDistrict" class="form-label">District</label>
               <select class="form-select" id="selectDistrict"></select>
@@ -120,8 +154,35 @@
                 Predict
               </div>
             </div>
-            <div id="price" class="col-md-12">Price:</div>
           </form>
+          <form
+            id="predictFormMany"
+            class="row g-3"
+            style="width: 60%; margin: 0; padding: 0; text-align: center"
+            action="/upload"
+            method="post"
+            enctype="multipart/form-data"
+          >
+            <div class="col-md-12">
+              <input id="inputFile" type="file" name="file" />
+            </div>
+            <!-- <div class="col-md-12">
+              <input type="submit" value="Upload" />
+            </div> -->
+            <div class="col-md-12">
+              <div
+                id="predictUpload"
+                class="btn btn-success"
+                style="width: 60%"
+                value="Upload"
+              >
+                Predict
+              </div>
+            </div>
+          </form>
+        </div>
+        <div class="row">
+          <div id="price" class="col-md-12">Price:</div>
         </div>
       </div>
       <div class="row g-3">
@@ -137,6 +198,29 @@
       fetchDistricts(codeHCM);
       var date = moment().format("YYYY MM DD");
       $("#inputDateSubmit").val(date.split(" ").join("-"));
+    });
+
+    $("#predictUpload").click(function () {
+      var file = $("#inputFile")[0].files[0];
+      if (file) {
+        console.log(file.name);
+      } else {
+        alert("File is empty");
+      }
+    });
+
+    $("#find-one").click(function () {
+      $("#predictFormOne").css("display", "flex");
+      $("#predictFormMany").css("display", "none");
+      $("#find-one").css("background-color", "grey");
+      $("#find-many").css("background-color", "#198754");
+    });
+
+    $("#find-many").click(function () {
+      $("#predictFormOne").css("display", "none");
+      $("#predictFormMany").css("display", "flex");
+      $("#find-one").css("background-color", "#198754");
+      $("#find-many").css("background-color", "grey");
     });
 
     $("#selectDistrict").on("change", function () {

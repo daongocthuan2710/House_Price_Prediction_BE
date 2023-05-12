@@ -20,7 +20,6 @@ async def root(request: Request):
         data = json.load(f)
     return templates.TemplateResponse("index.html", {"request": request, "data": data})
 
-
 @app.get("/price/")
 async def read_params(district: str, area: int, address: str, dateSubmit: str):
     item = {
@@ -30,3 +29,9 @@ async def read_params(district: str, area: int, address: str, dateSubmit: str):
         "dateSubmit": dateSubmit
     }
     return item
+
+# @app.post("/upload")
+# async def upload_file(file: UploadFile = File(...)):
+#     contents = await file.read()
+#     # process the contents of the file here
+#     return {"filename": file.filename}
