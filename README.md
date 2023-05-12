@@ -1,15 +1,17 @@
-# House_Price_Prediction_BE
+## House_Price_Prediction_BE
 
-## Clone project
+#### Deploy: https://house-price-prediction-el7n.onrender.com/
 
-### Python Version: 3.11.2
+- Clone project
 
-### Install pip: "py -m pip install"
+- Python Version: 3.11.2
 
-### "pip install pipenv": Tạo biến môi trường
+- Install pip: "py -m pip install"
 
-### "pipenv install -r requirements.txt": Install file requirements
+- "pip install pipenv": Tạo biến môi trường
 
-### "pipenv shell": Khởi chạy môi trường ảo
+- "pipenv install -r requirements.txt": Install file requirements
 
-### "uvicorn main:app --reload": run server
+- "pipenv shell": Khởi chạy môi trường ảo
+
+- "uvicorn main:app --reload": run server
