@@ -12,6 +12,8 @@
       src="https://code.jquery.com/jquery-1.7.1.min.js"
     ></script>
     <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/xlsx.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/jszip.js"></script>
     <style>
       body {
         background-color: rgb(16, 20, 29);
@@ -83,6 +85,25 @@
 
       #find-one {
         background-color: grey;
+      }
+
+      form {
+        margin: 60px 0 0 0 !important;
+      }
+
+      .ui-slider .ui-btn-inner {
+        padding: 4px 0 0 0 !important;
+      }
+
+      .ui-slider-popup {
+        position: absolute !important;
+        width: 64px;
+        height: 64px;
+        text-align: center;
+        font-size: 36px;
+        padding-top: 14px;
+        z-index: 100;
+        opacity: 0.8;
       }
     </style>
   </head>
@@ -182,7 +203,18 @@
           </form>
         </div>
         <div class="row">
-          <div id="price" class="col-md-12">Price:</div>
+          <div id="price" class="col-md-12 d-flex justify-content-center">
+            <div
+              style="
+                width: 60%;
+                font-size: 20px;
+                text-align: center;
+                fontweight: 700;
+              "
+            >
+              Price: {{predict}}
+            </div>
+          </div>
         </div>
       </div>
       <div class="row g-3">
@@ -194,6 +226,8 @@
   </body>
   <script>
     const codeHCM = 79;
+    const baseUrl = "https://vapi.vnappmob.com/api/province";
+
     $(document).ready(function () {
       fetchDistricts(codeHCM);
       var date = moment().format("YYYY MM DD");
@@ -203,7 +237,34 @@
     $("#predictUpload").click(function () {
       var file = $("#inputFile")[0].files[0];
       if (file) {
-        console.log(file.name);
+        console.log("file", file);
+        /* parseExcel = function (file) {
+          var reader = new FileReader();
+
+          reader.onload = function (e) {
+            var data = e.target.result();
+            var workbook = XLSX.read(data, {
+              type: "binary",
+            });
+
+            workbook.SheetNames.forEach(function (sheetName) {
+              // Here is your object
+              var XL_row_object = XLSX.utils.sheet_to_row_object_array(
+                workbook.Sheets[sheetName]
+              );
+              var json_object = JSON.stringify(XL_row_object);
+              console.log(json_object);
+            });
+          };
+
+          reader.onerror = function (ex) {
+            console.log(ex);
+          };
+
+          reader.readAsBinaryString(file);
+        };
+        parseExcel(file);
+        */
       } else {
         alert("File is empty");
       }
@@ -254,7 +315,7 @@
 
     async function fetchDistricts(codeProvince) {
       $.ajax({
-        url: `https://vapi.vnappmob.com/api/province/district/${codeProvince}`,
+        url: `${baseUrl}/district/${codeProvince}`,
         type: "GET",
         dataType: "JSON",
         data: JSON.stringify({}),
@@ -273,7 +334,7 @@
 
     async function fetchWards(codeDistrict) {
       $.ajax({
-        url: `https://vapi.vnappmob.com/api/province/ward/${codeDistrict}`,
+        url: `${baseUrl}/ward/${codeDistrict}`,
         type: "GET",
         dataType: "JSON",
         data: JSON.stringify({}),
