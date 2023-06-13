@@ -6,7 +6,9 @@
       integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="../asset/range-slider.css" />
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="../asset/rangeSlider.js"></script>
     <script
       type="text/javascript"
       src="https://code.jquery.com/jquery-1.7.1.min.js"
@@ -86,24 +88,120 @@
       #find-one {
         background-color: grey;
       }
-
-      form {
-        margin: 60px 0 0 0 !important;
+    </style>
+    <style>
+      #slider-container {
+        width: 100%;
+        padding: 3%;
       }
-
-      .ui-slider .ui-btn-inner {
-        padding: 4px 0 0 0 !important;
+      #slider-container {
+        /* width: 100%; */
+        height: 1.2rem;
+        user-select: none;
       }
-
-      .ui-slider-popup {
-        position: absolute !important;
-        width: 64px;
-        height: 64px;
+      #slider-bar {
+        width: inherit;
+        display: flex;
+        height: inherit;
+        justify-content: flex-start;
+        align-content: flex-start;
+        align-items: center;
+        border: none;
+        padding: 2px 8px;
+        position: relative;
+      }
+      #slider-bar output {
+        position: absolute;
+        top: -25px;
+        height: 2rem;
+        min-width: 2rem;
         text-align: center;
-        font-size: 36px;
-        padding-top: 14px;
-        z-index: 100;
-        opacity: 0.8;
+        border-radius: 5px;
+      }
+      .slider-handles {
+        width: 50%;
+        border: none;
+        box-sizing: border-box;
+        margin: 0;
+      }
+      .slider-handles:hover {
+        cursor: pointer;
+      }
+
+      #slider-output-1 {
+        left: 5%;
+      }
+      #slider-handle-2 {
+        transform: scaleX(-1);
+      }
+      #slider-output-2 {
+        right: 5%;
+      }
+      .slider-handles {
+        -webkit-appearance: none;
+        appearance: none;
+        background: transparent;
+        cursor: pointer;
+      }
+
+      #slider-bar.theme-light {
+        background-color: #e4e3e2;
+        box-shadow: 0px 0px 5px 0px #e4e3e2;
+      }
+      .theme-light output {
+        background: #e4e3e2;
+        color: #000;
+      }
+      /* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+      .theme-light .slider-handles::-webkit-slider-runnable-track {
+        background: #013d63;
+        height: 0.2rem;
+      }
+      /* Firefox */
+      .theme-light .slider-handles::-moz-range-track {
+        background: #013d63;
+      }
+      /* The slider thumb (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+      .theme-light .slider-handles::-webkit-slider-thumb {
+        -webkit-appearance: none; /* Override default look */
+        appearance: none;
+        background: #1e63b8;
+        height: 1.2rem;
+        width: 1.2rem;
+        border-radius: 50%;
+        margin-top: -8px;
+      }
+      /* Firefox thumb */
+      .theme-light .slider-handles::-moz-range-thumb {
+        background: #1e63b8;
+        height: 1.2rem;
+        width: 1.2rem;
+        border-radius: 50%;
+        margin-top: -8px;
+        border: none;
+      }
+      /*--------------DARK THEME -----------------------------------*/
+      .theme-dark output {
+        background: #94ce9c;
+        color: #fff;
+      }
+      #slider-bar.theme-dark {
+        background-color: #373737;
+        box-shadow: 0px 0px 5px 0px #e4e3e2;
+      }
+      /* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+      .theme-dark .slider-handles::-webkit-slider-runnable-track {
+        background: #8ab6e9;
+        height: 0.2rem;
+      }
+      /* Firefox */
+      .theme-dark .slider-handles::-moz-range-track {
+        background: #8ab6e9;
+      }
+
+      /* The slider thumb (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+      .theme-dark .slider-handles::-webkit-slider-thumb {
+        -webkit-appearance: none; /* Override default look */
       }
     </style>
   </head>
@@ -122,6 +220,38 @@
       <div class="row g-3">
         <div class="col g-3 d-flex justify-content-center">
           <form id="predictFormOne" class="row g-3" style="width: 60%">
+            <div class="col-md-6">
+              <label for="selectDistrict" class="form-label">Bath Room</label>
+              <div id="slider-container">
+                <div
+                  id="slider-bar"
+                  class="theme-light"
+                  data-max="60"
+                  data-min="1"
+                  data-precision="2"
+                >
+                  <input
+                    type="range"
+                    id="slider-handle-1"
+                    class="slider-handles"
+                    min="0"
+                    max="50"
+                    value="0"
+                  />
+                  <output for="slider-handle-1" id="slider-output-1"></output>
+                  <input
+                    type="range"
+                    id="slider-handle-2"
+                    class="slider-handles"
+                    min="0"
+                    max="50"
+                    value="0"
+                  />
+                  <output for="slider-handle-2" id="slider-output-2"></output>
+                </div>
+              </div>
+            </div>
+
             <div class="col-md-6">
               <label for="selectDistrict" class="form-label">District</label>
               <select class="form-select" id="selectDistrict"></select>
@@ -237,7 +367,6 @@
     $("#predictUpload").click(function () {
       var file = $("#inputFile")[0].files[0];
       if (file) {
-        console.log("file", file);
         /* parseExcel = function (file) {
           var reader = new FileReader();
 
@@ -373,6 +502,123 @@
         },
       },
     });
+  </script>
+  <script>
+    // double thumb slider
+    // custom event to fire when slider value changes
+    const onRangeSlide = new CustomEvent("range-change", {
+      detail: {
+        get values() {
+          const bar = document.getElementById("slider-bar");
+          if (!bar) {
+            return undefined;
+          }
+          // getting data values
+          const maxBar = bar.dataset.max ? Number(bar.dataset.max) : 100;
+          const minBar = bar.dataset.min ? Number(bar.dataset.min) : 0;
+          const precision = bar.dataset.precision
+            ? Number(bar.dataset.precision)
+            : 0;
+          // sliders
+          const slider1 = document.querySelector("#slider-handle-1");
+          const slider2 = document.querySelector("#slider-handle-2");
+          // getting slider values
+          const slider1Max = Number(slider1.max);
+          const slider2Max = Number(slider2.max);
+          const slider1Val = Number(slider1.value);
+          const slider2Val = Number(slider2.value);
+          const totalSliders = slider1Max + slider2Max;
+          const minValue =
+            minBar + (slider1Val / totalSliders) * (maxBar - minBar);
+          const maxValue =
+            minBar +
+            ((slider1Max + (slider2Max - slider2Val)) / totalSliders) *
+              (maxBar - minBar);
+          // update outputs
+          const out1 = document.getElementById("slider-output-1");
+          const out2 = document.getElementById("slider-output-2");
+          const minRange = precision
+            ? minValue.toFixed(precision)
+            : Math.ceil(minValue);
+          const maxRange = precision
+            ? maxValue.toFixed(precision)
+            : Math.floor(maxValue);
+          if (out1 && out2) {
+            out1.textContent = minRange;
+            out2.textContent = maxRange;
+          }
+          return { minRange, maxRange };
+        },
+      },
+    });
+    // init slider
+    const initSlider = () => {
+      const bar = document.getElementById("slider-bar");
+      const maxBar = bar.dataset.max ? Number(bar.dataset.max) : 100;
+      const minBar = bar.dataset.min ? Number(bar.dataset.min) : 0;
+      const out1 = document.getElementById("slider-output-1");
+      const out2 = document.getElementById("slider-output-2");
+      if (out1 && out2) {
+        out1.textContent = minBar;
+        out2.textContent = maxBar;
+      }
+    };
+    const onChangeSliderHandler = (evt) => {
+      const el = evt.target;
+      const id = el.id;
+      let elWidth = el.style.width
+        ? Number(el.style.width.replace("%", ""))
+        : 50;
+      const hand2 =
+        id === "slider-handle-1"
+          ? document.getElementById("slider-handle-2")
+          : document.getElementById("slider-handle-1");
+      let hand2Width = hand2.style.width
+        ? Number(hand2.style.width.replace("%", ""))
+        : 50;
+      let elMax = Number(el.max);
+      let elVal = Number(el.value);
+      const hand2Val = Number(hand2.value);
+      const bar = document.getElementById("slider-bar");
+      const maxBar = bar.dataset.max ? Number(bar.dataset.max) : 100;
+      const minBar = bar.dataset.min ? Number(bar.dataset.min) : 0;
+      const fixer = Math.ceil(0.02 * Math.abs(maxBar - minBar));
+
+      if ((elVal >= elMax && elMax >= 50) || elVal > 50 || elVal === elMax) {
+        el.max = elVal + fixer;
+        if (el.max >= 100) {
+          el.style.width = "100%";
+          elWidth = 99.99;
+          el.max = 100 - fixer;
+        } else {
+          elWidth = el.max;
+        }
+        el.style.width = `${elWidth}%`;
+      }
+      hand2.max = 100 - el.max;
+      hand2Width = 100 - elWidth;
+      hand2.style.width = `${hand2Width}%`;
+      if (hand2Val >= hand2.max) {
+        hand2.value = hand2.max - fixer;
+      }
+      bar.dispatchEvent(onRangeSlide);
+    };
+    
+    const registerSliderHandleListeners = () => {
+      const handleOne = document.getElementById("slider-handle-1");
+      const handleTwo = document.getElementById("slider-handle-2");
+      const bar = document.getElementById("slider-bar");
+      handleOne.addEventListener("input", onChangeSliderHandler);
+      handleTwo.addEventListener("input", onChangeSliderHandler);
+      // listen to events on slider change
+      bar.addEventListener("range-change", (evt) => {
+        // print values
+        console.log(evt.detail.values);
+      });
+    };
+
+    initSlider();
+    registerSliderHandleListeners();
   </script>
   <script
     src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
