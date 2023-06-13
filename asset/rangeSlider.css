@@ -1,0 +1,125 @@
+body {
+    background: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 98vh;
+ }
+ #slider-container {
+     width: 100%;
+     padding: 3%;
+ }
+ #slider-container {
+     /* width: 100%; */
+     height: 1.2rem;
+     user-select: none;
+ }
+ #slider-bar {
+     width: inherit;
+     display: flex;
+     height: inherit;
+     justify-content: flex-start;
+     align-content: flex-start;
+     align-items: center;
+     border: none;
+     padding: 2px 8px;
+     position: relative;
+ }
+ #slider-bar output {
+     position: absolute;
+     top: -25px;
+     padding: 6px;
+     height: 1rem;
+     min-width: 1rem;
+     text-align: center;
+     border-radius: 5px;
+ }
+ .slider-handles {
+     width: 50%;
+     border: none;
+     box-sizing: border-box;
+     margin: 0;
+ }
+ .slider-handles:hover {
+     cursor: pointer;
+ }
+ #slider-handle-1 {
+     /* height: inherit; */
+ }
+ #slider-output-1 {
+     left: 5%;
+ }
+ #slider-handle-2 {
+     transform: scaleX(-1);
+ }
+ #slider-output-2 {
+     right: 5%;
+ }
+ .slider-handles {
+     -webkit-appearance: none;
+     appearance: none;
+     background: transparent;
+     cursor: pointer;
+ }
+ 
+ #slider-bar.theme-light {
+     background-color: #E4E3E2;
+     box-shadow: 0px 0px 5px 0px #e4e3e2;
+ }
+ .theme-light output {
+     background: #E4E3E2;
+     color: #000;
+ }
+ /* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+ .theme-light .slider-handles::-webkit-slider-runnable-track {
+     background: #013D63;
+     height: 0.2rem;
+ }
+ /* Firefox */
+ .theme-light .slider-handles::-moz-range-track {
+     background: #013D63;
+ }
+ /* The slider thumb (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+ .theme-light .slider-handles::-webkit-slider-thumb {
+     -webkit-appearance: none; /* Override default look */
+     appearance: none;  
+     background: #1E63B8;
+     height: 1.2rem;
+     width: 1.2rem;
+     border-radius: 50%;
+     margin-top: -8px;
+ }
+ /* Firefox thumb */
+ .theme-light .slider-handles::-moz-range-thumb {
+     background: #1E63B8;
+     height: 1.2rem;
+     width: 1.2rem;
+     border-radius: 50%;
+     margin-top: -8px;
+     border: none;
+ 
+ }
+ /*--------------DARK THEME -----------------------------------*/
+ .theme-dark output {
+     background: #94CE9C;
+     color: #FFF;
+ }
+ #slider-bar.theme-dark {
+     background-color: #373737;
+     box-shadow: 0px 0px 5px 0px #e4e3e2;
+ 
+ }
+ /* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+ .theme-dark .slider-handles::-webkit-slider-runnable-track {
+     background: #8AB6E9;
+     height: 0.2rem;
+ }
+ /* Firefox */
+ .theme-dark .slider-handles::-moz-range-track {
+     background: #8AB6E9;
+ }
+ 
+ /* The slider thumb (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+ .theme-dark .slider-handles::-webkit-slider-thumb {
+     -webkit-appearance: none; /* Override default look */
+ }
