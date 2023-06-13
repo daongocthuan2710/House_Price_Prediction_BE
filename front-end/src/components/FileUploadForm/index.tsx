@@ -1,65 +1,105 @@
 // Libs
-import React, { useState } from "react";
+import React from "react";
 import * as XLSX from "xlsx";
-import { saveAs } from "file-saver";
-// import dataFile from "./data_training.xlsx";
+
 // Atnd
-import { Button, Form, Space, Upload } from "antd";
+import { Button, Form, Space, Upload, Spin } from "antd";
 import { DownloadOutlined, InboxOutlined } from "@ant-design/icons";
+import { isNull } from "lodash";
 
-function UploadForm() {
-  const [data, setData] = useState<unknown[]>([]);
+import dataFile from "./data_training.xlsx";
 
-  const onFinish = (info: any) => {
-    console.log("info: ", info);
-    const { status, response } = info.dragger[0];
-    console.log("status: ", status);
-    console.log("response: ", response);
+const formItemLayout = {
+  labelCol: { span: 6 },
+  wrapperCol: { span: 14 },
+};
 
-    if (status === "done") {
-      const workbook = XLSX.read(response, { type: "array" });
-      const sheetName = workbook.SheetNames[0];
-      const worksheet = workbook.Sheets[sheetName];
-      const jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
-      setData(jsonData);
-    } else if (status === "error") {
+const normFile = (e: any) => {
+  if (Array.isArray(e)) {
+    return e;
+  }
+  return e?.fileList;
+};
+
+interface UploadFormProps {
+  onSetValuesUpload: Function;
+  isLoading: boolean;
+}
+
+function UploadForm({ onSetValuesUpload, isLoading }: UploadFormProps) {
+  const onFinish = async (info: any) => {
+    try {
+      const { originFileObj } = info.dragger[0];
+      if (originFileObj) {
+        const data = await originFileObj.arrayBuffer();
+        const workbook = XLSX.read(data);
+        const worksheet = workbook.Sheets[workbook.SheetNames[0]];
+        const jsonData: any[][] = XLSX.utils.sheet_to_json(worksheet, {
+          header: 1,
+          defval: null,
+        });
+
+        handleDataUpload(jsonData);
+      }
+    } catch (err) {
       console.log("File upload failed.: ");
     }
   };
 
-  const formItemLayout = {
-    labelCol: { span: 6 },
-    wrapperCol: { span: 14 },
-  };
+  function isAllNull(arr: any[]): boolean {
+    return arr.every((item) => isNull(item));
+  }
 
-  const normFile = (e: any) => {
-    if (Array.isArray(e)) {
-      return e;
-    }
-    return e?.fileList;
-  };
+  function handleValues(arr: any[]): any[] {
+    // Filter null values
+    const filterNullArray = arr.filter((item) => item !== null);
 
-  const handleExport = () => {
-    const excelFilePath = "/data_training.xlsx";
-    // "../Fdata_training.xlsx";
-
-    // Đọc dữ liệu từ file Excel
-    const workbook = XLSX.readFile(excelFilePath);
-    const worksheet = workbook.Sheets[workbook.SheetNames[0]];
-    const jsonData: any[] = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
-
-    // Tạo một bảng dữ liệu mới từ dữ liệu đọc được
-    const newWorksheet = XLSX.utils.aoa_to_sheet(jsonData);
-    const newWorkbook = XLSX.utils.book_new();
-    XLSX.utils.book_append_sheet(newWorkbook, newWorksheet, "Sheet1");
-
-    // Xuất file Excel mới
-    const excelBuffer = XLSX.write(newWorkbook, {
-      bookType: "xlsx",
-      type: "array",
+    // Sort values
+    const sortedArr = filterNullArray.sort(function (a, b) {
+      if (a > b) return 1;
+      if (a < b) return -1;
+      return 0;
     });
-    const blob = new Blob([excelBuffer], { type: "application/octet-stream" });
-    saveAs(blob, "training_data.xlsx");
+
+    // Remove duplicates
+    const uniqueArr = sortedArr.filter(
+      (item, index) => sortedArr.indexOf(item) === index
+    );
+
+    return uniqueArr;
+  }
+
+  const handleDataUpload = (data: any[][]) => {
+    const districtIndex = data[0].indexOf("district");
+    const typeIndex = data[0].indexOf("type");
+    const bedIndex = data[0].indexOf("bedroom");
+    const bathIndex = data[0].indexOf("bathroom");
+    const areaIndex = data[0].indexOf("area");
+
+    const district = [];
+    const type = [];
+    const area = [];
+    const bathroom = [];
+    const bedroom = [];
+
+    const maxRow = 99;
+    for (let i = 1; i < maxRow; i++) {
+      if (isAllNull(data[i])) break;
+
+      if (districtIndex >= 0) district.push(data[i][districtIndex]);
+      if (typeIndex >= 0) type.push(data[i][typeIndex]);
+      if (bedIndex >= 0) bedroom.push(data[i][bedIndex]);
+      if (bathIndex >= 0) bathroom.push(data[i][bathIndex]);
+      if (areaIndex >= 0) area.push(data[i][areaIndex]);
+    }
+
+    onSetValuesUpload(
+      handleValues(district),
+      handleValues(type),
+      handleValues(area),
+      handleValues(bathroom),
+      handleValues(bedroom)
+    );
   };
 
   return (
@@ -77,14 +117,14 @@ function UploadForm() {
         rate: 3.5,
       }}
     >
-      <Form.Item label="Dragger">
+      <Form.Item label="Upload">
         <Form.Item
           name="dragger"
           valuePropName="fileList"
           getValueFromEvent={normFile}
           noStyle
         >
-          <Upload.Dragger name="files" accept=".xlsx" action={"/upload-form"}>
+          <Upload.Dragger name="files" accept=".xlsx">
             <p className="ant-upload-drag-icon">
               <InboxOutlined />
             </p>
@@ -98,16 +138,28 @@ function UploadForm() {
         </Form.Item>
       </Form.Item>
 
-      <Button icon={<DownloadOutlined />} onClick={handleExport}>
-        Export Excel
+      <Button
+        icon={<DownloadOutlined />}
+        href={dataFile}
+        download={"data_sample.xlsx"}
+        style={{ marginBottom: `20px` }}
+      >
+        Export mẫu Excel
       </Button>
 
       <Form.Item wrapperCol={{ span: 12, offset: 6 }}>
         <Space>
-          <Button type="primary" htmlType="submit">
+          <Button type="primary" htmlType="submit" disabled={isLoading}>
+            {isLoading ? (
+              <>
+                <Spin />
+                &ensp;
+              </>
+            ) : (
+              ""
+            )}
             Dự đoán
           </Button>
-          <Button htmlType="reset">reset</Button>
         </Space>
       </Form.Item>
     </Form>

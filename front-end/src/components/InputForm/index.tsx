@@ -16,7 +16,12 @@ import {
 } from "antd";
 
 // Constants
-import { REAL_ESTATES, rangeArea, rangeRoom } from "../../constants";
+import {
+  REAL_ESTATES,
+  RANGE_AREA,
+  RANGE_BATHROOM,
+  RANGE_BEDROOM,
+} from "../../constants";
 
 // APIs
 import districtApi from "../../services/districts";
@@ -31,7 +36,7 @@ const formItemLayout = {
   wrapperCol: { span: 14 },
 };
 
-export interface InputFormProps {
+interface InputFormProps {
   onSubmitInputForm: Function;
   isLoading: boolean;
   isDarkMode: boolean;
@@ -48,8 +53,8 @@ function InputForm({
   // District State
   const [districtList, setDistrictList] = useState<TDistrict[]>([]);
 
-  const [minAreaValue, setMinAreaValue] = useState<number>(rangeArea.min);
-  const [maxAreaValue, setMaxAreaValue] = useState<number>(rangeArea.max);
+  const [minAreaValue, setMinAreaValue] = useState<number>(RANGE_AREA.min);
+  const [maxAreaValue, setMaxAreaValue] = useState<number>(RANGE_AREA.max);
 
   const onAreaChange = (value: [number, number]) => {
     setMinAreaValue(value[0]);
@@ -57,8 +62,8 @@ function InputForm({
   };
 
   // Bathroom State
-  const [minBathValue, setMinBathValue] = useState<number>(rangeRoom.min);
-  const [maxBathValue, setMaxBathValue] = useState<number>(rangeRoom.max);
+  const [minBathValue, setMinBathValue] = useState<number>(RANGE_BATHROOM.min);
+  const [maxBathValue, setMaxBathValue] = useState<number>(RANGE_BATHROOM.max);
 
   const onBathChange = (value: [number, number]) => {
     setMinBathValue(value[0]);
@@ -66,8 +71,8 @@ function InputForm({
   };
 
   // Bedroom State
-  const [minBedValue, setMinBedValue] = useState<number>(rangeRoom.min);
-  const [maxBedValue, setMaxBedValue] = useState<number>(rangeRoom.max);
+  const [minBedValue, setMinBedValue] = useState<number>(RANGE_BEDROOM.min);
+  const [maxBedValue, setMaxBedValue] = useState<number>(RANGE_BEDROOM.max);
 
   const onBedChange = (value: [number, number]) => {
     setMinBedValue(value[0]);
@@ -107,7 +112,7 @@ function InputForm({
       style={{
         maxWidth: 1000,
         color: `${isDarkMode ? "white" : "black"}`,
-      }}  
+      }}
     >
       <Form.Item
         name="city"
@@ -170,9 +175,9 @@ function InputForm({
         <Row>
           <Col span={5}>
             <InputNumber
-              min={rangeArea.min}
-              max={rangeArea.max}
-              step={rangeArea.step}
+              min={RANGE_AREA.min}
+              max={RANGE_AREA.max}
+              step={RANGE_AREA.step}
               value={minAreaValue}
               onChange={(newValue: number | null) =>
                 setMinAreaValue(newValue || 0)
@@ -182,19 +187,19 @@ function InputForm({
           <Col span={14}>
             <Slider
               range
-              step={rangeArea.step}
-              min={rangeArea.min}
-              max={rangeArea.max}
+              step={RANGE_AREA.step}
+              min={RANGE_AREA.min}
+              max={RANGE_AREA.max}
               value={[minAreaValue, maxAreaValue]}
               onChange={onAreaChange}
             />
           </Col>
           <Col span={5}>
             <InputNumber
-              min={rangeArea.min}
-              max={rangeArea.max}
+              min={RANGE_AREA.min}
+              max={RANGE_AREA.max}
               value={maxAreaValue}
-              step={rangeArea.step}
+              step={RANGE_AREA.step}
               onChange={(newValue: number | null) =>
                 setMaxAreaValue(newValue || 0)
               }
@@ -212,9 +217,9 @@ function InputForm({
         <Row>
           <Col span={5}>
             <InputNumber
-              min={rangeRoom.min}
-              max={rangeRoom.max}
-              step={rangeRoom.step}
+              min={RANGE_BATHROOM.min}
+              max={RANGE_BATHROOM.max}
+              step={RANGE_BATHROOM.step}
               value={minBathValue}
               onChange={(newValue: number | null) =>
                 setMinBathValue(newValue || 0)
@@ -224,18 +229,18 @@ function InputForm({
           <Col span={14}>
             <Slider
               range
-              step={rangeRoom.step}
-              min={rangeRoom.min}
-              max={rangeRoom.max}
+              step={RANGE_BATHROOM.step}
+              min={RANGE_BATHROOM.min}
+              max={RANGE_BATHROOM.max}
               value={[minBathValue, maxBathValue]}
               onChange={onBathChange}
             />
           </Col>
           <Col span={5}>
             <InputNumber
-              min={rangeRoom.min}
-              max={rangeRoom.max}
-              step={rangeRoom.step}
+              min={RANGE_BATHROOM.min}
+              max={RANGE_BATHROOM.max}
+              step={RANGE_BATHROOM.step}
               value={maxBathValue}
               onChange={(newValue: number | null) =>
                 setMaxBathValue(newValue || 0)
@@ -254,9 +259,9 @@ function InputForm({
         <Row>
           <Col span={5}>
             <InputNumber
-              min={rangeRoom.min}
-              max={rangeRoom.max}
-              step={rangeRoom.step}
+              min={RANGE_BEDROOM.min}
+              max={RANGE_BEDROOM.max}
+              step={RANGE_BEDROOM.step}
               value={minBedValue}
               onChange={(newValue: number | null) =>
                 setMinBedValue(newValue || 0)
@@ -266,18 +271,18 @@ function InputForm({
           <Col span={14}>
             <Slider
               range
-              step={rangeRoom.step}
-              min={rangeRoom.min}
-              max={rangeRoom.max}
+              step={RANGE_BEDROOM.step}
+              min={RANGE_BEDROOM.min}
+              max={RANGE_BEDROOM.max}
               value={[minBedValue, maxBedValue]}
               onChange={onBedChange}
             />
           </Col>
           <Col span={5}>
             <InputNumber
-              min={rangeRoom.min}
-              max={rangeRoom.max}
-              step={rangeRoom.step}
+              min={RANGE_BEDROOM.min}
+              max={RANGE_BEDROOM.max}
+              step={RANGE_BEDROOM.step}
               value={maxBedValue}
               onChange={(newValue: number | null) =>
                 setMaxBedValue(newValue || 0)

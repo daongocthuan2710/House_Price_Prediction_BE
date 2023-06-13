@@ -43,7 +43,7 @@ export const optionXGBoostChart = (
         return `${propertyName}: ${tar1.name} </br>
            ${tar2.seriesName}: ${price_formatter(
           tar1.value < tar2.value ? tar1.value : tar2.value
-        )} - ${price_formatter(
+        )} -> ${price_formatter(
           tar1.value > tar2.value ? tar1.value : tar2.value
         )}
           `;

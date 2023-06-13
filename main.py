@@ -20,15 +20,13 @@ from training import Model
 # from sklearn.preprocessing import StandardScaler
 app = FastAPI()
 origins = [
-    "http://localhost.tiangolo.com",
-    "https://localhost.tiangolo.com",
-    "http://localhost",
+    "http://localhost:3000/",
     "http://localhost:3000",
 ]
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
-    allow_credentials=True,
+    allow_credentials=["*"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -53,10 +51,11 @@ def root(request: Request):
 async def read_params(array : Array):
     model = Model()
     response = model.xgboostModel(array.data)
-    priceList = response.tolist()
+    priceList = response.tolist()     
     if priceList:
         return priceList
     return None
+        
 
 @app.get("/lstm-model")
 async def getPriceLSTMModel():

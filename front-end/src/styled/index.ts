@@ -1,9 +1,9 @@
 import styled from "styled-components";
-import { marginDefault } from "../constants";
+import { MARGIN_DEFAULT } from "../constants";
 
 export const CustomContainer = styled.div<{ $isDarkMode: boolean }>`
   text-align: center;
-  padding-top: ${marginDefault};
+  padding-top: ${MARGIN_DEFAULT};
   background-color: ${({ $isDarkMode }) =>
     $isDarkMode ? "rgb(16, 12, 42)" : "rgb(255,255,255)"};
 `;
@@ -23,7 +23,7 @@ export const CustomChartWrapper = styled.div`
 
 export const CustomDarkModeWrapper = styled.div<{ $isDarkMode: boolean }>`
   float: left;
-  margin-bottom: ${marginDefault};
+  margin-bottom: ${MARGIN_DEFAULT};
   color: ${({ $isDarkMode }) => ($isDarkMode === true ? "white" : "black")};
 `;
 

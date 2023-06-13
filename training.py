@@ -39,8 +39,9 @@ class Model(object):
     # def __init__(self, urls=[]):
 
     def xgboostModel(self, data):
-        try:                 
+        try:           
             x_test_rs = np.array(data)
+            print(data)  
             # Chuẩn hóa dữ liệu
             mean = 2.8994780170195344
             std = 1641.2708956700708
@@ -48,6 +49,7 @@ class Model(object):
             
             model_load = joblib.load('xgb_model.pkl')
             predict = model_load.predict(x_test_rs) 
+            print(predict)
             return predict
         
         except Exception:
