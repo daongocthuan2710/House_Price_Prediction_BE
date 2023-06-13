@@ -20,6 +20,7 @@ from training import Model
 # from sklearn.preprocessing import StandardScaler
 app = FastAPI()
 origins = [
+    "https://house-price-prediction-fe-git-main-daongocthuan2710.vercel.app/",
     "http://localhost:3000/",
     "http://localhost:3000",
 ]
